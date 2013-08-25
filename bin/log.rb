@@ -2,8 +2,8 @@
 $: << File.dirname(__FILE__)
 
 
-require "logger"
-require "conf"
+#require "logger"
+#require "conf"
 
 module Mylog
   include Conf
